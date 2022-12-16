@@ -1,8 +1,5 @@
-### Olá, eu sou o Gabriel Gemente! 👋
-
-- 🧑‍💻 Hoje trabalho com desenvolvimento web e mobile.
-- ⚛️ Estudando React e TypeScript .
-- 📫 Entre em contato por aqui: "gabrielxgemente@gmail.com".
+- ⚛️ Studying React and TypeScript .
+- 📫 Contact here : "gabrielxgemente@gmail.com".
 
 
 <div align="center">
