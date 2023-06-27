@@ -1,4 +1,4 @@
-- ⚛️ Studying React and TypeScript .
+- ⚛️ Studying Laravel and JS.
 - 📫 Contact here : "gabrielxgemente@gmail.com".
   
  
