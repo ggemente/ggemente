@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" role="img" aria-label="Gabriel Gemente, dev full stack pleno"><title>Gabriel Gemente, dev full stack pleno</title><style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.cov{animation:type 1.1s steps(6) .4s both}
+@keyframes type{from{transform:translateX(0)}to{transform:translateX(80px)}}
+.rise{animation:rise .7s cubic-bezier(.2,.7,.2,1) 1.4s both}
+.rise2{animation:rise .7s cubic-bezier(.2,.7,.2,1) 1.8s both}
+.rise3{animation:rise .7s cubic-bezier(.2,.7,.2,1) 2.1s both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.cur{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.pulse{animation:pulse 2s ease-out infinite;transform-origin:52px 254px}
+@keyframes pulse{from{opacity:.6;transform:scale(1)}to{opacity:0;transform:scale(2.6)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style><rect x="1" y="1" width="798" height="298" rx="14" fill="#181B16" stroke="#30362C" stroke-width="2"/><line x1="2" y1="44" x2="798" y2="44" stroke="#30362C" stroke-width="2"/><circle cx="28" cy="23" r="7" fill="#D9634C"/><circle cx="50" cy="23" r="7" fill="#E4B341"/><circle cx="72" cy="23" r="7" fill="#5FAF6E"/><text x="776" y="28" text-anchor="end" class="mono" font-size="14" fill="#9CA190">~/lavras-mg</text><text x="40" y="92" class="mono" font-size="20"><tspan fill="#7CC6DA">~/lavras-mg</tspan><tspan fill="#9CA190"> $ </tspan><tspan fill="#E8E2D0">whoami</tspan></text><rect class="cov" x="200" y="70" width="84" height="30" fill="#181B16"/><g class="rise"><text x="40" y="172" class="sans" font-size="76" font-weight="800" letter-spacing="-2" fill="#E8E2D0" textLength="630" lengthAdjust="spacingAndGlyphs">Gabriel Gemente</text><rect class="cur" x="684" y="116" width="32" height="58" fill="#F0B13A"/></g><text class="mono rise2" x="40" y="216" font-size="20" fill="#9CA190">dev full stack pleno | PHP, Laravel, Node.js, Next.js</text><g class="rise3"><circle class="pulse" cx="52" cy="254" r="6" fill="#3FA35B"/><circle cx="52" cy="254" r="6" fill="#3FA35B"/><text x="70" y="260" class="mono" font-size="17" fill="#E8E2D0">Full stack na Inovcorp, de Lavras pra Lisboa</text></g></svg>
